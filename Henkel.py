@@ -8,7 +8,7 @@ from scarp import TestKetest
 import pandas as pd
 import streamlit as st
 
-from streamlit_extras.metric_cards import style_metric_cards
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 @st.cache_data() 
