@@ -7,4 +7,4 @@ babel
 plotly
 selenium==4.9.1
 chromedriver-autoinstaller==0.2.2
-msedge-selenium-tools==4.9.1
+msedge-selenium-tools
