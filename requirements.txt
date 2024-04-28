@@ -5,6 +5,6 @@ streamlit-aggrid==0.3.4.post3
 openpyxl
 babel
 plotly
-selenium==4.1.0
+selenium==4.9.1
 chromedriver-autoinstaller==0.2.2
-msedge-selenium-tools==3.141.3
+msedge-selenium-tools==4.9.1
